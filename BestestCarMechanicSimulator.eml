@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/BestestCarMechanicSimulator"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="flatlaf-2.6" value="project"/>
+		<level name="flatlaf-intellij-themes-2.6" value="project"/>
+		<level name="flatlaf-extras-2.6" value="project"/>
+	</levels>
+</component>

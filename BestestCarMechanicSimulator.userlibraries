@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="flatlaf-2.6">
+    <archive path="C:/Users/Reinis/Desktop/BestestCarMechanicSimulator/src/libs/flatlaf-2.6.jar" />
+  </library>
+  <library name="flatlaf-intellij-themes-2.6">
+    <archive path="C:/Users/Reinis/Desktop/BestestCarMechanicSimulator/src/libs/flatlaf-intellij-themes-2.6.jar" />
+  </library>
+  <library name="flatlaf-extras-2.6">
+    <archive path="C:/Users/Reinis/Desktop/BestestCarMechanicSimulator/src/libs/flatlaf-extras-2.6.jar" />
+  </library>
+</eclipse-userlibraries>
+
